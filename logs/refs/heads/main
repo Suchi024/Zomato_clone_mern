@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 3b38e701bc6e21983eadca742d6797cde40556f5 ashnik-nova <ashnik2511@gmail.com> 1741274448 +0530	clone: from https://github.com/SR-2425/Zomato_Clone.git
+3b38e701bc6e21983eadca742d6797cde40556f5 995f2d884bf02b68e16fe119ea834c1c52ced551 ashnik-nova <ashnik2511@gmail.com> 1741415818 +0530	commit: Connect Backend and Frontennd
+995f2d884bf02b68e16fe119ea834c1c52ced551 7553690e3628ae22fcc7ef725b7f0558fd25799b SR-2425 <sanskarraskar56@gmail.com> 1741441570 +0530	commit: Added order routes and connected to frontend
+7553690e3628ae22fcc7ef725b7f0558fd25799b 906f6246a7f737fe74ba0682fb656e86c40af7e3 SR-2425 <sanskarraskar56@gmail.com> 1741442867 +0530	commit: placed server.js in right place
+906f6246a7f737fe74ba0682fb656e86c40af7e3 da01a665070f80f238bf3ec550995d2509a637ac SR-2425 <sanskarraskar56@gmail.com> 1741443529 +0530	commit: Added render url
+da01a665070f80f238bf3ec550995d2509a637ac 475dcb7cc457d0c9b1abbfafa702f832f5209150 SR-2425 <sanskarraskar56@gmail.com> 1741443934 +0530	commit: Added Frontend URL
+475dcb7cc457d0c9b1abbfafa702f832f5209150 010da94e6f07575a9679e6e715fc1c3cbe01ba88 SR-2425 <sanskarraskar56@gmail.com> 1741444534 +0530	commit: updated cors
+010da94e6f07575a9679e6e715fc1c3cbe01ba88 510d680277ce6b4b29973a46f2a2d46c49e7ecf9 SR-2425 <sanskarraskar56@gmail.com> 1741499619 +0530	commit: made some changes regarding .env file
+510d680277ce6b4b29973a46f2a2d46c49e7ecf9 5e160cd539119414b6b4c960a6151beb41434801 SR-2425 <sanskarraskar56@gmail.com> 1741499779 +0530	commit: changes were made
+5e160cd539119414b6b4c960a6151beb41434801 51d7e8d41ebf66b00cfe4f8e7425d4e40057f50a SR-2425 <sanskarraskar56@gmail.com> 1741501856 +0530	commit: Added Some Changes
+51d7e8d41ebf66b00cfe4f8e7425d4e40057f50a eb728b976ac4fd666773f7da12fc8703baf7f438 SR-2425 <sanskarraskar56@gmail.com> 1741506252 +0530	commit: made some changes
+eb728b976ac4fd666773f7da12fc8703baf7f438 6b5abc7559d97eec0c436bda3624d15b418ac452 SR-2425 <sanskarraskar56@gmail.com> 1741507222 +0530	commit: changes were made
+6b5abc7559d97eec0c436bda3624d15b418ac452 543f261a29e0f226f83dd78cea46a11dd9e1483c SR-2425 <sanskarraskar56@gmail.com> 1741520652 +0530	commit: Added changes
+543f261a29e0f226f83dd78cea46a11dd9e1483c 9c94bc74e90377d00aede293cafbbc9538ec87bf SR-2425 <sanskarraskar56@gmail.com> 1741521318 +0530	commit: done
+9c94bc74e90377d00aede293cafbbc9538ec87bf 48db7379a4c19f23e30fae313efc835e59a9c182 SR-2425 <sanskarraskar56@gmail.com> 1741523610 +0530	commit: changes added
+48db7379a4c19f23e30fae313efc835e59a9c182 2a9c82af3a0a11fb0c4731ec319215512e027eff SR-2425 <sanskarraskar56@gmail.com> 1741524325 +0530	commit: added env in fromtend
+2a9c82af3a0a11fb0c4731ec319215512e027eff c9377e4d1a712356e6115096ff23e9c12925f21c SR-2425 <sanskarraskar56@gmail.com> 1741524451 +0530	commit: changed frontend url
